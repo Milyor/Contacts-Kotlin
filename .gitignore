@@ -1,0 +1,59 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Contacts (Kotlin)/*
+!/Contacts (Kotlin)/task/
+/Contacts (Kotlin)/task/*
+!/Contacts (Kotlin)/task/src
+!/Contacts (Kotlin)/task/phonebook.json
+
+# Project exclude paths
+/Topics/Kotlinx datetime library/Theory/out/
+/Topics/Kotlinx datetime library/Theory/out/production/classes/
+/Topics/Kotlinx datetime library/Using the kotlinx-datetime library/out/
+/Topics/Kotlinx datetime library/Using the kotlinx-datetime library/out/production/classes/
+/Topics/Mutable Map and Mutable Set as interfaces/Theory/out/
+/Topics/Mutable Map and Mutable Set as interfaces/Theory/out/production/classes/
+/Topics/Mutable Map and Mutable Set as interfaces/Unique ID user collection manager/out/
+/Topics/Mutable Map and Mutable Set as interfaces/Unique ID user collection manager/out/production/classes/
+/Topics/Quantifiers/A simple regex/out/
+/Topics/Quantifiers/A simple regex/out/production/classes/
+/Topics/Quantifiers/Matching digits/out/
+/Topics/Quantifiers/Matching digits/out/production/classes/
+/Topics/Quantifiers/OK Computer/out/
+/Topics/Quantifiers/OK Computer/out/production/classes/
+/Topics/Quantifiers/The meaning of the {n} quantifier/out/
+/Topics/Quantifiers/The meaning of the {n} quantifier/out/production/classes/
+/Topics/Quantifiers/The name of a variable/out/
+/Topics/Quantifiers/The name of a variable/out/production/classes/
+/Topics/Quantifiers/The plus quantitifier/out/
+/Topics/Quantifiers/The plus quantitifier/out/production/classes/
+/Topics/Quantifiers/Theory/out/
+/Topics/Quantifiers/Theory/out/production/classes/
+/Topics/Quantifiers/UUIDs/out/
+/Topics/Quantifiers/UUIDs/out/production/classes/
+/Topics/Quantifiers/Which strings match patterns/out/
+/Topics/Quantifiers/Which strings match patterns/out/production/classes/
+/Topics/Regexps in use/Aaaaaaa to a/out/
+/Topics/Regexps in use/Aaaaaaa to a/out/production/classes/
+/Topics/Regexps in use/Camels vs. snakes/out/
+/Topics/Regexps in use/Camels vs. snakes/out/production/classes/
+/Topics/Regexps in use/Correspondence/out/
+/Topics/Regexps in use/Correspondence/out/production/classes/
+/Topics/Regexps in use/Nickname parser/out/
+/Topics/Regexps in use/Nickname parser/out/production/classes/
+/Topics/Regexps in use/Theory/out/
+/Topics/Regexps in use/Theory/out/production/classes/
+/Topics/Regexps in use/Web colors/out/
+/Topics/Regexps in use/Web colors/out/production/classes/
+/Topics/The try-catch-finally statement/The end/out/
+/Topics/The try-catch-finally statement/The end/out/production/classes/
